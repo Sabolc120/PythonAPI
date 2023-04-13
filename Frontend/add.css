@@ -1,0 +1,18 @@
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    margin-top:2%;
+    text-align:center;
+    margin-bottom:5%;
+}
+.my-form {
+    max-width: 50%;
+    margin-left:25%;
+}
+.btn{
+    margin-top:3%;
+    margin-left:25%;
+    width:50%;
+}
